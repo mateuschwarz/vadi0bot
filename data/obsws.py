@@ -4,5 +4,5 @@ class config():
     
     HOST = 'localhost'
     PORT = '4444'
-    PASS = 'jesusamad0!'
+    PASS = ""
     URI  = 'ws://' + HOST + ':' + PORT
